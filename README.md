@@ -41,9 +41,6 @@
   <a href="https://www.ros.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/gazebo/gazebo-original.svg" alt="Gazebo" width="40" height="40" />
   </a>
-  <a href="https://www.qt.io/product/qt-for-python" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Rviz_logo.png" alt="RViz" width="40" height="40" />
-  </a>
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/labview/labview-original.svg" alt="LabVIEW" width="40" height="40" />
   </a>
@@ -56,14 +53,8 @@
   <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="40" height="40" />
   </a>
-  <a href="https://www.st.com/en/development-tools/stm32cubemx.html" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/STM32_logo.png" alt="STM32" width="40" height="40" />
-  </a>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" />
-  </a>
-  <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/SolidWorks_logo.svg" alt="SolidWorks" width="40" height="40" />
   </a>
   <a href="https://www.debian.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" alt="Debian" width="40" height="40" />
