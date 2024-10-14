@@ -1,7 +1,7 @@
 [![Support Palestine](https://raw.githubusercontent.com/Ademking/Support-Palestine/main/Support-Palestine.svg)](https://www.map.org.uk)
 
 # 👋 Hi, I’m Fares Amor 
-- 🌱 I’m currently learning C++,  C# , RUST
+- 🌱 I’m currently learning C++, C#, RUST
 - 📫 How to reach me:  
   **Email:** faresamor2020@gmail.com  
 
@@ -88,5 +88,17 @@
   </a>
   <a href="https://www.embedded.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/embeddedc/embeddedc-plain-wordmark.svg" alt="Embedded C" width="40" height="40" />
+  </a>
+  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="40" height="40" />
+  </a>
+  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original-wordmark.svg" alt="Visual Studio" width="40" height="40" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40" />
+  </a>
+  <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40" />
   </a>
 </p>
