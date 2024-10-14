@@ -21,28 +21,31 @@
 ## 🛠️ Languages and Tools:
 <p align="left">
   <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-line.svg" alt="Rust" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40" />
   </a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
   </a>
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" alt="C" width="40" height="40" />
+  </a>
+  <a href="https://cmake.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" alt="CMake" width="40" height="40" />
   </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   </a>
   <a href="https://www.ros.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="ROS2" width="40" height="40" />
-  </a>
-  <a href="http://gazebosim.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gazebo_logo.png" alt="Gazebo" width="40" height="40" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/gazebo/gazebo-original.svg" alt="Gazebo" width="40" height="40" />
   </a>
   <a href="https://www.qt.io/product/qt-for-python" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Rviz_logo.png" alt="RViz" width="40" height="40" />
   </a>
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/labview/labview-original.svg" alt="LabVIEW" width="40" height="40" />
   </a>
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original-wordmark.svg" alt="OpenCV" width="40" height="40" />
@@ -61,5 +64,29 @@
   </a>
   <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/SolidWorks_logo.svg" alt="SolidWorks" width="40" height="40" />
+  </a>
+  <a href="https://www.debian.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" alt="Debian" width="40" height="40" />
+  </a>
+  <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="40" height="40" />
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" alt="Firebase" width="40" height="40" />
+  </a>
+  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" alt="LaTeX" width="40" height="40" />
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
+  </a>
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40" />
+  </a>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+  </a>
+  <a href="https://www.embedded.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/embeddedc/embeddedc-plain-wordmark.svg" alt="Embedded C" width="40" height="40" />
   </a>
 </p>
