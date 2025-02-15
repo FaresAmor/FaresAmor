@@ -1,7 +1,7 @@
 [![Support Palestine](https://raw.githubusercontent.com/Ademking/Support-Palestine/main/Support-Palestine.svg)](https://www.map.org.uk)
 
 # 👋 Hi, I’m Fares Amor 
-- 🎓 **Élève ingénieur en systèmes embarqués** 
+- 🎓 **Student engineer in embedded systems** 
 - 🌱 I’m currently learning C++, C#, RUST
 - 📫 How to reach me:  
   **Email:** faresamor2020@gmail.com  
