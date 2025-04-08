@@ -1,9 +1,9 @@
 [![Support Palestine](https://raw.githubusercontent.com/Ademking/Support-Palestine/main/Support-Palestine.svg)](https://www.map.org.uk)
+ 
+![Profile Views](https://komarev.com/ghpvc/?username=FaresAmor&color=blue)
 
 # 👋 Hi, I’m Fares Amor 
  Glad to see you here!
- 
-![Profile Views](https://komarev.com/ghpvc/?username=FaresAmor&color=blue)
 
 
 - 🎓 **Student engineer in embedded systems** 
