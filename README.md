@@ -27,7 +27,7 @@
 
 - 🤖 Robotics and Embedded Systems: I find joy in building intelligent robots and creating efficient embedded solutions. The idea of giving life to machines fascinates me.
 
-- 📱 Dart and Flutter: I'm currently exploring the power of Dart and Flutter to craft beautiful and functional cross-platform mobile applications. The fast development cycle and hot reload are simply amazing!
+- 🔧 Hardware Design: I’m passionate about designing custom PCBs and selecting the right components to bring embedded systems to life with reliability and precision.
 
 - 🔌 Electronics and IoT: I enjoy tinkering with circuits and exploring the possibilities of the Internet of Things (IoT). Connecting devices and making them smarter is both challenging and rewarding.
 
