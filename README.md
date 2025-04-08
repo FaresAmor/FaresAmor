@@ -2,7 +2,7 @@
 
 # 👋 Hi, I’m Fares Amor 
  Glad to see you here!
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Fares Amor&color=blue)
 
 
 - 🎓 **Student engineer in embedded systems** 
