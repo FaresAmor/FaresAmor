@@ -128,4 +128,4 @@
 
 ## Let's Code Together!
 
-If you share my enthusiasm for embedded systems, robotics, Dart, Flutter, or any other exciting tech, don't hesitate to reach out! Let's collaborate and create something awesome together. Happy coding! 🎉
+If you share my passion for embedded systems, robotics, IoT, or any other exciting tech, feel free to reach out! I'd love to connect, collaborate, and build something amazing together. Happy coding! 🎉
