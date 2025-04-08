@@ -22,6 +22,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Fares Amor" height="30" width="40" />
   </a>
 </p>
+
 ## What I Love
 
 - 🤖 Robotics and Embedded Systems: I find joy in building intelligent robots and creating efficient embedded solutions. The idea of giving life to machines fascinates me.
