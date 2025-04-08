@@ -22,6 +22,16 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Fares Amor" height="30" width="40" />
   </a>
 </p>
+# What I Love
+
+- 🤖 Robotics and Embedded Systems: I find joy in building intelligent robots and creating efficient embedded solutions. The idea of giving life to machines fascinates me.
+
+- 📱 Dart and Flutter: I'm currently exploring the power of Dart and Flutter to craft beautiful and functional cross-platform mobile applications. The fast development cycle and hot reload are simply amazing!
+
+- 🔌 Electronics and IoT: I enjoy tinkering with circuits and exploring the possibilities of the Internet of Things (IoT). Connecting devices and making them smarter is both challenging and rewarding.
+
+- 💡 Lifelong Learning: As a junior developer, I believe in continuous learning. I actively seek out new technologies and programming languages to expand my skill set.
+
 
 ## 🛠️ Languages and Tools:
 <p align="left">
