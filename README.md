@@ -2,7 +2,8 @@
 
 # 👋 Hi, I’m Fares Amor 
  Glad to see you here!
-![Profile Views](https://github.com/FaresAmor)
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+
 
 - 🎓 **Student engineer in embedded systems** 
 - 🌱 I’m currently learning C++, C#, RUST
